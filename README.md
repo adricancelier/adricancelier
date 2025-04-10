@@ -60,10 +60,10 @@ Criado com boas práticas e estrutura preparada para futuras melhorias.
 
 ---
 
-## ⚡ Curiosidade divertida
+## ⚡ Fun Fact
 
 Desenvolvi meus primeiros blogs totalmente em HTML aos 14 anos.  
-Esse era o meu maior hobbie na adolescência — por isso, em 2005, meu pai me matriculou no meu primeiro curso técnico de Web Design.
+Esse era o meu maior hobbie na adolescência — por isso, em 2005, meu pai me matriculou no meu primeiro curso técnico de Web Design. Ps: Não faça as contas.
 
 ---
 
