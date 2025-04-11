@@ -15,6 +15,8 @@ Desenvolvedora em formação, fotógrafa há anos e apaixonada por transformar i
 Sou uma profissional em transição de carreira, com histórico em projetos pessoais de desenvolvimento web desde 2003.  
 Hoje, estou em formação contínua como desenvolvedora Full Stack e fui aprovada no programa **Desenvolve Boticário 2025**.  
 Tenho paixão por tecnologia, cinema, educação e estou criando meu primeiro app Android.
+Minha jornada com desenvolvimento web começou em meados de 2004, quando fiz um curso de Web Design e desenvolvia sites utilizando o Dreamweaver da Macromedia — uma ferramenta visual que marcou época na criação de páginas HTML.
+Naquela época, aprendi os fundamentos do HTML e do design de páginas, criando sites com base em tabelas e estilos inline. Após anos atuando em outra área, retomei esse caminho com uma nova perspectiva: agora, estudando desenvolvimento de software com foco em boas práticas, linguagens modernas e interfaces responsivas. O que era curiosidade virou paixão e, hoje, um novo projeto profissional.
 
 ---
 
