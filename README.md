@@ -15,11 +15,10 @@ Desenvolvedora em formação, fotógrafa há 12 anos e apaixonada por tecnologia
 Dev Backend Júnior.
 Profissional em transição de carreira em busca de estágio na área.  
 Cursando Análise e Desenvolvimento de Sistemas.
-Minha jornada com desenvolvimento web começou em meados de 2004, quando fiz um curso de Web Design e desenvolvia sites utilizando o Dreamweaver.
 
 ---
 
-## Cursos Concluídos
+## Cursos Livres Concluídos
 
 - Começando em Programação: carreira e primeiros passos – Alura  
 - Git e GitHub: compartilhando e colaborando em projetos – Alura  
@@ -32,11 +31,10 @@ Minha jornada com desenvolvimento web começou em meados de 2004, quando fiz um 
 
 ## Habilidades Técnicas
 
-- JavaScript (básico)  
-- Git e GitHub  
+- JavaScript (básico)
+- Python (Básico)
+- GitHub  
 - Lógica de programação  
-- Kotlin (em breve)  
-- HTML e CSS (em breve)
 
 ---
 
