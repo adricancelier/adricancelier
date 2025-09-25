@@ -14,7 +14,7 @@ Desenvolvedora em formação, fotógrafa há 12 anos e apaixonada por tecnologia
 
 Dev Backend Júnior.
 Profissional em transição de carreira em busca de estágio na área.  
-Cursando Análise e Desenvolvimento de Sistemas.
+Formação acadêmica: Cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
